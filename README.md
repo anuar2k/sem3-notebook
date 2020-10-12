@@ -1,7 +1,7 @@
 # sem3-notebook
-One image to rule them all (RPiS and PF). 😎
+One image to rule them all (RPiS, PF and AG). 😎
 
-This image is a combined R + Haskell Jupyter Notebook. It uses `crosscompass/ihaskell-notebook` as its base and adds R to it using exact recipe as `jupyter/r-notebook`.
+This image is a combined R + Haskell + SciPy Jupyter Notebook. It uses `crosscompass/ihaskell-notebook` as its base, adds R to it using exact recipe as `jupyter/r-notebook` and python libraries from `jupyter/scipy-notebook`.
 
 🙏 God bless the people behind Jupyter Docker Stacks. 🙏
 
